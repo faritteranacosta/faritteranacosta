@@ -68,6 +68,14 @@ Here are some ideas to get you started:
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/faritteranacosta/faritteranacosta/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/faritteranacosta/count.svg?"  />
 </div>
