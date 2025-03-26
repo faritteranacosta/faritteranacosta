@@ -60,10 +60,16 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faritteranacosta/faritteranacosta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faritteranacosta/faritteranacosta/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faritteranacosta/faritteranacosta/output/pacman-contribution-graph.svg">
+</picture>
+
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/faritteranacosta/faritteranacosta/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/faritteranacosta/count.svg?"  />
+</div>
 
 ###
