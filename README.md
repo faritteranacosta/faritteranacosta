@@ -1,4 +1,4 @@
-## Hi 👋! My name is farit
+## Hi 👋! I'm farit
 
 <!--
 **faritteranacosta/faritteranacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
